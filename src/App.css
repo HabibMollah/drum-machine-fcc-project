@@ -46,3 +46,17 @@
   grid-template-columns: 1fr 1fr 1fr;
   gap: 1rem;
 }
+
+#display {
+  background-color: #1a1a1a;
+  height: 100%;
+  width: 100%;
+  min-height: 3rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+  font-size: x-large;
+  font-family: monospace;
+  padding-top: 1rem;
+}
