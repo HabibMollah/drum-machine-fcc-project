@@ -22,7 +22,7 @@ function App() {
           const audioElement = document.getElementById(
             key.toUpperCase()
           ) as HTMLAudioElement;
-          audioElement?.play();
+          audioElement.click();
         }
       });
     };
