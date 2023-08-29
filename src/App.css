@@ -60,3 +60,12 @@
   font-family: monospace;
   padding-top: 1rem;
 }
+
+.hH1,
+.hH4 {
+  margin: 0;
+}
+
+.heading {
+  margin-bottom: 3rem;
+}
