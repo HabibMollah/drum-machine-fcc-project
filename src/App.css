@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+.drum-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+}
